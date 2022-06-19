@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henry-dev-16
-- 👀 I’m interested in web web development
-- 🌱 I’m currently learning avascript and node.js
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript and node.js
 - 📫 How to reach me henrriortiz16@gmail.com
 
 <!---
